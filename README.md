@@ -39,5 +39,3 @@ Installation
 Author
 
 Senali Vihanga
-
-Senali Vihanga
